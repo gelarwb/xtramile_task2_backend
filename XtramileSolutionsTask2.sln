@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XtramileSolutionsTask2", "XtramileSolutionsTask2\XtramileSolutionsTask2.csproj", "{56DB314A-B355-4803-9911-5C9DFDDE5213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xtramiletask2-web-api-test", "xtramiletask2-web-api-test\xtramiletask2-web-api-test.csproj", "{87EF3CA2-3533-4254-AF42-BA9D9B2AFD13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56DB314A-B355-4803-9911-5C9DFDDE5213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DB314A-B355-4803-9911-5C9DFDDE5213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DB314A-B355-4803-9911-5C9DFDDE5213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DB314A-B355-4803-9911-5C9DFDDE5213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EF3CA2-3533-4254-AF42-BA9D9B2AFD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EF3CA2-3533-4254-AF42-BA9D9B2AFD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EF3CA2-3533-4254-AF42-BA9D9B2AFD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EF3CA2-3533-4254-AF42-BA9D9B2AFD13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E473598-DB98-4EF1-A1EB-46F579EAB4F2}
+	EndGlobalSection
+EndGlobal

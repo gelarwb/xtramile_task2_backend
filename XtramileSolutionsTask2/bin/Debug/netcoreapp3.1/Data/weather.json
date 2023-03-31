@@ -1,0 +1,81 @@
+[
+  {
+    "country": "ID",
+    "location": "Jakarta",
+    "time": "Now",
+    "wind": "11",
+    "visibility": "5",
+    "sky_conditions": "cloud",
+    "temperature_celcius": "26",
+    "temperature_fahrenheit": "78" ,
+    "dew_point": "25" ,
+    "relative_humidity": "93%" ,
+    "pressure": "1015 mbar" 
+  },
+  {
+    "country": "ID",
+    "location": "Bandung",
+    "time": "Now",
+    "wind": "11",
+    "visibility": "5",
+    "sky_conditions": "cloud",
+    "temperature_celcius": "26",
+    "temperature_fahrenheit": "78" ,
+    "dew_point": "25" ,
+    "relative_humidity": "80%" ,
+    "pressure": "900 mbar" 
+  },
+  {
+    "country": "ID",
+    "location": "Surabaya",
+    "time": "Now",
+    "wind": "17",
+    "visibility": "3",
+    "sky_conditions": "raining",
+    "temperature_celcius": "22",
+    "temperature_fahrenheit": "71.6" ,
+    "dew_point": "21" ,
+    "relative_humidity": "93%" ,
+    "pressure": "1015 mbar" 
+  },
+  {
+    "country": "ID",
+    "location": "Medan",
+    "time": "Now",
+    "wind": "10",
+    "visibility": "15",
+    "sky_conditions": "sun",
+    "temperature_celcius": "32",
+    "temperature_fahrenheit": "89.6" ,
+    "dew_point": "30" ,
+    "relative_humidity": "90%" ,
+    "pressure": "1110 mbar" 
+  },
+  {
+    "country": "ID",
+    "location": "Padang",
+    "time": "Now",
+    "wind": "17",
+    "visibility": "10",
+    "sky_conditions": "cloud",
+    "temperature_celcius": "25",
+    "temperature_fahrenheit": "77" ,
+    "dew_point": "25" ,
+    "relative_humidity": "86%" ,
+    "pressure": "1011 mbar" 
+  },
+  {
+    "country": "ID",
+    "location": "Denpasar",
+    "time": "Now",
+    "wind": "18",
+    "visibility": "20",
+    "sky_conditions": "sun",
+    "temperature_celcius": "34",
+    "temperature_fahrenheit": "93.5" ,
+    "dew_point": "31" ,
+    "relative_humidity": "90%" ,
+    "pressure": "1211 mbar" 
+  }
+]
+
